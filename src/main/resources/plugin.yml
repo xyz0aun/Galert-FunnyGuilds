@@ -1,0 +1,7 @@
+name: XCODE_GALERT
+version: '${project.version}'
+main: me.funnyguilds.main.Main
+authors: [ xyzaun ]
+
+commands:
+  galert:

@@ -1,0 +1,10 @@
+// Wiadomosci
+messages:
+  no_leader: "&cNie posiadasz lidera lub zastepcy!"
+  no_guild: "&cNie posiadasz gildii!"
+  usage: "&7Poprawne uzycie: &c/galert [wiadomosc]"
+
+// Title
+title:
+  name_color: "&b&l"
+  name_messages: "&f&l"
